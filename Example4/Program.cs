@@ -23,6 +23,6 @@ else
 }
 while (i <= max)
 {   
-Console.WriteLine(i);
+Console.Write($"{i}, ");
  i++;
 }
