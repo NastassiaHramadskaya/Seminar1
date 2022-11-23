@@ -1,0 +1,15 @@
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\bin\Debug\net6.0\Example2.exe
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\bin\Debug\net6.0\Example2.deps.json
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\bin\Debug\net6.0\Example2.runtimeconfig.json
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\bin\Debug\net6.0\Example2.dll
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\bin\Debug\net6.0\Example2.pdb
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\Example2.csproj.AssemblyReference.cache
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\Example2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\Example2.AssemblyInfoInputs.cache
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\Example2.AssemblyInfo.cs
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\Example2.csproj.CoreCompileInputs.cache
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\Example2.dll
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\refint\Example2.dll
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\Example2.pdb
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\Example2.genruntimeconfig.cache
+C:\Обучение\3. Знакомство с языком программирования С#\C#\Seminar1\Example2\obj\Debug\net6.0\ref\Example2.dll
